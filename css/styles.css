@@ -1,6 +1,7 @@
 /* Estilos generales */
 .logo {
-  max-width: 200px; 
+  max-width: 150px; 
+  width: 100%;
   height: auto;
 }
 
@@ -34,7 +35,7 @@ header {
 }
 
 .nav-link:hover {
-  background-color: rgba(255, 255, 255, 0.1); 
+  background-color: rgba(255, 255, 255, 0.3); 
 }
 
 
